@@ -80,44 +80,6 @@ cd <repo>
 # See CONTRIBUTING.md inside each repo for setup instructions
 ```
 
----
-
-## Repository structure
-
-```
-noventralabs/
-├── .github/               # Org-level templates, workflows
-├── gap-scanner/           # NVL-001 · Core signal aggregation tool
-├── idea-validator/        # NVL-002 · Validation framework
-├── ecosystem-maps/        # NVL-003 · Market whitespace maps
-├── labs-reports/          # NVL-004 · Published research
-└── meta/                  # Org decisions, gap proposals, design system
-```
-
----
-
-## Design system
-
-All Noventra Labs products follow the **Precision Dark** design language:
-
-- `#0a0a0b` dark base · `#e8a237` amber signal · `DM Mono` for all data
-- Sharp edges, no border-radius · borders over shadows · amber means *found it*
-- The 2×2 gap-mark grid appears in every product as a visual fingerprint
-
-Full spec → [`meta/design-system/`](https://github.com/noventralabs/meta)
-
----
-
-<div align="center">
-
-```
-┌─────┬─────┐
-│  ·  │  ·  │   Stop thinking.
-├─────┼─────┤
-│  ·  │  ◆  │   Start knowing.
-└─────┴─────┘
-```
-
 [**github.com/noventralabs**](https://github.com/noventralabs) · Open Source · Built in Public
 
 </div>
