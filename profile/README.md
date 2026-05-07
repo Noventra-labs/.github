@@ -44,17 +44,6 @@ SCAN  ──►  VALIDATE  ──►  BUILD  ──►  ITERATE
 
 ---
 
-## Active initiatives
-
-| ID | Project | Description | Status |
-|---|---|---|---|
-| `NVL-001` | **Gap Scanner** | Open-source tool that aggregates feedback signals from forums, social platforms, and app stores to surface high-confidence market gaps | 🟡 In Progress |
-| `NVL-002` | **Idea Validator** | Lightweight validation framework — landing pages, surveys, and waitlists in minutes | 🔵 Coming Soon |
-| `NVL-003` | **Ecosystem Maps** | Visual, open-access maps of product categories showing incumbents, whitespace, and emerging opportunities | 🔵 Research |
-| `NVL-004` | **Labs Reports** | Published research on gap findings — openly shared so the community can build on our analysis | 🔵 Research |
-
----
-
 ## Our principles
 
 **Evidence over intuition.**  
