@@ -3,7 +3,7 @@
 <div align="center">
 
 
-![Logo](https://raw.githubusercontent.com/Noventra-labs/Noventra-labs/main/logo-wordmark.svg)
+![Logo](https://github.com/Noventra-labs/.github/blob/main/Assets/logo-wordmark.svg)
 
 
 **We find gaps between what the market needs and what exists — then ship the products to fill them.**
