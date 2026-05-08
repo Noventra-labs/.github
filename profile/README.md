@@ -1,12 +1,13 @@
-<!-- NOVENTRA LABS — ORG README -->
-
 <div align="center">
 
+<img src="https://github.com/Noventra-labs/.github/blob/main/Assets/logo-wordmark.svg" alt="Noventra Labs" width="360" />
 
-![Logo](https://github.com/Noventra-labs/.github/blob/main/Assets/logo-wordmark.svg)
-
+<br />
+<br />
 
 **We find gaps between what the market needs and what exists — then ship the products to fill them.**
+
+<br />
 
 [![Status](https://img.shields.io/badge/status-building-e8a237?style=flat-square&labelColor=0a0a0b)](https://github.com/noventralabs)
 [![License](https://img.shields.io/badge/license-MIT-8a8782?style=flat-square&labelColor=0a0a0b)](./LICENSE)
@@ -14,6 +15,8 @@
 [![Built in Public](https://img.shields.io/badge/built-in%20public-8a8782?style=flat-square&labelColor=0a0a0b)](https://github.com/noventralabs)
 
 </div>
+
+<br />
 
 ---
 
@@ -46,16 +49,16 @@ SCAN  ──►  VALIDATE  ──►  BUILD  ──►  ITERATE
 
 ## Our principles
 
-**Evidence over intuition.**  
+**Evidence over intuition.**
 We trust data. Every assumption gets tested before it becomes a build decision. The word "obvious" is not in our vocabulary.
 
-**Radical openness.**  
+**Radical openness.**
 Research, code, and decisions — all public. We build trust by building in the open. No private roadmaps. No black boxes.
 
-**Shipping over planning.**  
+**Shipping over planning.**
 A working prototype beats a perfect roadmap. We move fast, document why, and adjust based on what we learn.
 
-**Community as co-founder.**  
+**Community as co-founder.**
 The people who use what we build shape where we go next. Issues, feedback, and PRs aren't noise — they're the signal.
 
 ---
@@ -80,6 +83,10 @@ cd <repo>
 # See CONTRIBUTING.md inside each repo for setup instructions
 ```
 
-[**github.com/noventralabs**](https://github.com/noventralabs) · Open Source · Built in Public
+---
+
+<div align="center">
+
+`github.com/noventralabs` · Open Source · Built in Public
 
 </div>
